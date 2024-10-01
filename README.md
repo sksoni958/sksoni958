@@ -1,5 +1,5 @@
 <a href="https://rishavchanda.io">
-    <img src="https://www.optimalvirtualemployee.com/wp-content/uploads/2018/09/optimal_virtual_employee_php_developer-1.png" width="100%" alt="MasterHead">
+    <img src="https://www.optimalvirtualemployee.com/wp-content/uploads/2018/09/optimal_virtual_employee_php_developer-1.png" width="100%" height="300px"alt="MasterHead">
 </a>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h1 align="center">Hi 👋, I'm Sudhir Kumar</h1>
