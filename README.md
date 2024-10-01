@@ -1,4 +1,6 @@
-
+<a href="https://rishavchanda.io">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6DyUDlW4OOwyeOZ8YMOKfDA46aUqXDN6snw&s" width="100%" alt="MasterHead">
+</a>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h1 align="center">Hi 👋, I'm Sudhir Kumar</h1>
 <h3 align="center">A passionate PHP developer from India</h3>
